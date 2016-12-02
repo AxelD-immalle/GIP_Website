@@ -5,3 +5,10 @@ $('.button-collapse').sideNav({
     draggable: true // Choose whether you can drag to open on touch screens
   }
 );
+
+$(document).ready(function(){
+    $('.materialboxed').materialbox();
+    $('.materialboxed').materialbox({time_constant: 600})
+});
+
+$('.carousel.carousel-slider').carousel({full_width: true});
