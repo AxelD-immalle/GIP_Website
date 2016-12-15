@@ -12,3 +12,7 @@ $(document).ready(function(){
 });
 
 $('.carousel.carousel-slider').carousel({full_width: true});
+
+setInterval(function(){
+  $('.carousel').carousel('next');
+}, 5000);
