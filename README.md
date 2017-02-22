@@ -1,4 +1,4 @@
-# [GIP Website](axeld-immalle.github.io/GIP_Website)
+# [GIP Website]( https://github.com/AxelD-immalle/Website_GIP)
 
 Dit is de website voor mijn GIP. 
 
